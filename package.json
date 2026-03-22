@@ -1,0 +1,9 @@
+{
+  "name": "os-pbl-root",
+  "private": true,
+  "description": "Operating Systems PBL — Deadlock Prevention Simulator",
+  "scripts": {
+    "build": "npm run build --prefix dashboard",
+    "install": "npm install --prefix dashboard"
+  }
+}
